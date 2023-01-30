@@ -1,1 +1,1 @@
-# Portfolio
+Welcome to my text to speech converter page! As a web developer, I have created this page to showcase my ability to integrate text to speech functionality into a website. The page allows users to input text and have it read aloud by a computer-generated voice. This feature can be useful for accessibility or language translation purposes. Give it a try and see how it works! Simply type your desired text in the input box and press the "speak" button.
